@@ -59,7 +59,8 @@
 
 # Traffic Sign Recognition
 
-![Traffic Sign Recognition](traffic_sign_recognition.png)
+  ------![WhatsApp Image 2024-02-28 at 20 52 34_66a4c255](https://github.com/ashfaq-khan14/Traffic-sign-Board-recognition-system/assets/120010803/44e2d155-cbf5-4b79-9226-31138259c9b1)
+
 
 ## Overview
 Traffic Sign Recognition is a computer vision project aimed at automatically detecting and classifying traffic signs from images or video streams. This project utilizes deep learning techniques to develop a robust model capable of accurately identifying various types of traffic signs, including speed limits, stop signs, yield signs, and more. By enabling automated traffic sign recognition, this project contributes to enhancing road safety and improving the efficiency of autonomous driving systems.
