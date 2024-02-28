@@ -82,7 +82,7 @@ The project utilizes a comprehensive dataset containing images of traffic signs 
 ## Installation
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/traffic-sign-recognition.git
+   git clone https://github.com/ashfaq-khan14/Traffic-sign-Board-recognition-system.git
    
 2. Install dependencies:
    
@@ -140,7 +140,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Replace yourusername, traffic-sign-recognition, and LICENSE with your actual details. Also, provide a requirements.txt file if there are specific dependencies for your project. Additionally, replace traffic_sign_recognition.png with an actual image representing your project.
 
 <br clear="both">
 
